@@ -1,0 +1,14 @@
+﻿<?xml version="1.0"?>
+<DTS:ConnectionManager xmlns:DTS="www.microsoft.com/SqlServer/Dts"
+  DTS:ObjectName="localhost.AdventureWorksDW2012.sa"
+  DTS:DTSID="{CAD71FF8-7F65-4EE6-8FB7-0C65B4582901}"
+  DTS:CreationName="OLEDB">
+  <DTS:ObjectData>
+    <DTS:ConnectionManager
+      DTS:ConnectionString="Data Source=localhost;User ID=sa;Initial Catalog=AdventureWorksDW2012;Provider=SQLNCLI11.1;Persist Security Info=True;Auto Translate=False;">
+      <DTS:Password
+        DTS:Name="Password"
+        Sensitive="1">AQAAANCMnd8BFdERjHoAwE/Cl+sBAAAA3NCm7ZzIQkSaMr9+SpAK3QAAAAACAAAAAAAQZgAAAAEAACAAAAALkoOdgYGLn3hk/yaqUjBMlKyuxuj2DP/joo8B1nw7RgAAAAAOgAAAAAIAACAAAAAL5ECDbt0jHv5COu2QsL92pWO0fwMW4/r22jvEjJVTFIAAAACnOaJh+g1kuDqo/MJ3grKP6pN/UK5SYvxSkVmgeA1hF4Us9xCHP75aeYxo8ZZKKHO//TY0yQms1PwxBRFT0HTpXx84nT3hbCQ3kIMCSiZvCbOCMjgQwwUdGcfrSygrYfd8mLIT/VntT16e7kA/bBLj3lQ796Ts5zKLpFGi2i0JDEAAAACJoIpxNaoPucXMSdm6+DT49in0s7ct/ST0/Y6Zq7Mv0GnhoHM0zNGGOuKpXD9PefOwXovUWIV6XbL7hrfdJiZf</DTS:Password>
+    </DTS:ConnectionManager>
+  </DTS:ObjectData>
+</DTS:ConnectionManager>
